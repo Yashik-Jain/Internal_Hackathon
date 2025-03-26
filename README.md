@@ -4,4 +4,4 @@ The Hospital Queue Management System is a web application designed to streamline
 The system aims to enhance the efficiency of hospital services by minimizing overcrowding and ensuring a seamless patient experience.
 
 🛠 Tech Stack
-Frontend: React.js
+Frontend: React.js , CSS
